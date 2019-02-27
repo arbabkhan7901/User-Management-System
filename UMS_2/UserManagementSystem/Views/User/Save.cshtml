@@ -1,0 +1,66 @@
+﻿@model UMS.Entities.UserDTO
+    @{
+        if (Session["UserID"] != null) 
+        {
+
+            ViewBag.Title = "Save";
+            Layout = "~/Views/Shared/_MyUserLayout.cshtml";
+
+
+                <html>
+                <head>
+                    <style>
+                        .div1 {
+                            background-color: white;
+                            padding: 10px;
+                            margin: 150px 450px;
+                            border: 50px black;
+                            border-radius: 5px;
+                            height: 400px;
+                            width: 400px;
+                            text-align: left;
+                        }
+
+                        .pos {
+                            border: none;
+                            color: white;
+                            padding: 15px 32px;
+                            background-color: rebeccapurple;
+                            text-align: center;
+                            text-decoration: none;
+                            display: inline-block;
+                            font-size: 16px;
+                            margin: 4px 280px;
+                            cursor: pointer;
+                            height: 50px;
+                            width: 100px;
+                        }
+                    </style>
+                </head>
+                @{
+                    Session["login"] = null;
+                }
+                <body style="background-color:darkgray;">
+
+                    <div class="div1">
+                        <h1>Home Screen</h1>
+                        Welcome @Model.login
+                        @{
+                            Session["login"] = Model.login;
+                        }
+                        <img src="~/UploadedFiles/@Model.ImageName" style="width:100px;height:100px; margin:4px 280px" /><br /><br />
+                        <input type="submit" class="pos" name="edit" value="Edit" onclick="@("window.location.href='" + @Url.Action("Edit", "User") + "'");" />
+                        <input type="submit" class="pos" name="logout" value="Logout" onclick="@("window.location.href='" + @Url.Action("Start", "User") + "'");" />
+                    </div>
+                </body>
+            </html>
+
+
+                            }
+                            else
+                            {
+                                
+                                <span>Please login First</span>
+                            }
+    }
+

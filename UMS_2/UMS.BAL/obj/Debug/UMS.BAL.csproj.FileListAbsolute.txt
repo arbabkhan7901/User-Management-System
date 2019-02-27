@@ -1,0 +1,18 @@
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\bin\Debug\UMS.BAL.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\bin\Debug\UMS.BAL.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\bin\Debug\UMS.DAL.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\bin\Debug\UMS.Entities.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\bin\Debug\UMS.DAL.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\bin\Debug\UMS.Entities.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\obj\Debug\UMS.BAL.csprojResolveAssemblyReference.cache
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\obj\Debug\UMS.BAL.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.BAL\obj\Debug\UMS.BAL.pdb
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\bin\Debug\UMS.BAL.dll
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\bin\Debug\UMS.BAL.pdb
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\bin\Debug\UMS.DAL.dll
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\bin\Debug\UMS.Entities.dll
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\bin\Debug\UMS.DAL.pdb
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\bin\Debug\UMS.Entities.pdb
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\obj\Debug\UMS.BAL.csprojResolveAssemblyReference.cache
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\obj\Debug\UMS.BAL.dll
+H:\6th semester\EAD\Assignment\Assignment 5 Sol\Assignment 5\UMS.BAL\obj\Debug\UMS.BAL.pdb

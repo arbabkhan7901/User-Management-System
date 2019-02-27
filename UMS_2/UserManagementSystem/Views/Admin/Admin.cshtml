@@ -1,0 +1,65 @@
+﻿@model UMS.Entities.AdminDTO
+@{
+    ViewBag.Title = "Admin";
+    Layout = "~/Views/Shared/_MyUserLayout.cshtml";
+}
+
+<html>
+<head>
+
+    <style>
+        body {
+            background-color: white;
+        }
+
+        .div1 {
+            background-color: white;
+            padding: 10px;
+            margin: 150px 490px;
+            border: 50px black;
+            border-radius: 5px;
+            height: 480px;
+            width: 500px;
+            text-align: left;
+        }
+          .button {
+        height: 40px;
+        width: 80px;
+        background-color: lightblue;
+    }
+    </style>
+</head>
+<body>
+    @{
+        Session["res"] = null;
+    }
+   <h1 style="color:black;font-family:Verdana; text-align: center;">Admin Login</h1>
+    <div class="div1">
+        <form action="~/Admin/Admin" method="get">
+            <table cellspacing="7" cellpadding="2">
+                <tr>
+                    <td>
+                        Login:
+                    </td>
+                    <td>
+                        <input type="text" name="login" id="login" value="@Model.login" required/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td>
+                        <input type="password" name="password" id="password" value="@Model.Password" required/><br /> <br />
+                    </td>
+                </tr>
+            </table>
+            <input type="submit" class="button" name="btn" login="btn" value="Login" />
+            <input type="submit" class="button" name="cancel" id="cancel" value="Cancel" onclick="@("window.location.href='" + @Url.Action("Start", "User") + "'");"/>
+        @{ 
+            Session["res"] = true;
+        }
+        </form>
+    </div>
+</body>
+</html>
+
+

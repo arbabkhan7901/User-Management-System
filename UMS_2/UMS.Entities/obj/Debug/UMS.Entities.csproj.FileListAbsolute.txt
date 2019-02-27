@@ -1,0 +1,5 @@
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.Entities\bin\Debug\UMS.Entities.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.Entities\bin\Debug\UMS.Entities.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.Entities\obj\Debug\UMS.Entities.csprojResolveAssemblyReference.cache
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.Entities\obj\Debug\UMS.Entities.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.Entities\obj\Debug\UMS.Entities.pdb

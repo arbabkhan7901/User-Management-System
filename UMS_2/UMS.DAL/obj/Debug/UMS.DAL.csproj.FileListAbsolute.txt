@@ -1,0 +1,7 @@
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.DAL\bin\Debug\UMS.DAL.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.DAL\bin\Debug\UMS.DAL.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.DAL\bin\Debug\UMS.Entities.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.DAL\bin\Debug\UMS.Entities.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.DAL\obj\Debug\UMS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.DAL\obj\Debug\UMS.DAL.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\UMS.DAL\obj\Debug\UMS.DAL.pdb

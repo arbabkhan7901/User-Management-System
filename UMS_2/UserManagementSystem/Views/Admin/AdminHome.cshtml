@@ -1,0 +1,59 @@
+﻿@model List<UMS.Entities.UserDTO>
+@{
+    if (Session["res"] != null)
+    {
+        ViewBag.Title = "UserList";
+        Layout = "~/Views/Shared/_MyUserLayout.cshtml";
+        <style>
+            .button {
+                height: 40px;
+                width: 80px;
+                background-color: lightgrey;
+            }
+        </style>
+
+        <body style="background-color:gray">
+            <div>
+                <div>
+                    <div>
+                        <h2 style="text-align:center">User List</h2>
+                    </div>
+                    <table border="2" style="background-color: white; color: black; margin: 0 auto;">
+                        <tr>
+                            <th>User Id</th>
+                            <th>Name</th>
+                            <th>Login</th>
+                            <th>Address</th>
+                            <th>Age</th>
+                            <th>Edit</th>
+                        </tr>
+                        @{
+                            for (int i = 0; i < Model.Count; i++)
+                            {
+
+                                <tr>
+                                    <td>@Model[i].UserID</td>
+                                    <td>@Model[i].Name</td>
+                                    <td>@Model[i].login</td>
+                                    <td>@Model[i].address</td>
+                                    <td>@Model[i].age</td>
+                                    @{
+                                        Session["isAdmin"] = "true";
+                                        Session["login"] = Model[i].login;
+                                    }
+                                    <td><button class="button" type="submit" name="edit" id="@Model[i].UserID" onclick="@("window.location.href='" + @Url.Action("Edit", "User") + "'");">Edit</button></td>
+
+                                </tr>
+                                        }
+
+                        }
+                    </table>
+                </div>
+            </div>
+        </body>
+                                        }
+                                        else
+                                        {
+                                            <span>Please login first</span>
+                                        }
+                                        }

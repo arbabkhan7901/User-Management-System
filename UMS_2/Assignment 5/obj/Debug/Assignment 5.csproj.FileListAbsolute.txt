@@ -1,0 +1,14 @@
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\UMS.BAL.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\UMS.Entities.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\UMS.DAL.dll
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\UMS.BAL.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\UMS.Entities.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\bin\Debug\UMS.DAL.pdb
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.Cache
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\arbab_000.HAIER-PC\documents\visual studio 2015\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
